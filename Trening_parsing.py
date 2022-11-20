@@ -13,6 +13,8 @@ for res in list:
     title = res.find('a', class_='posts__link').text
     print(title)
 
+# Второй комит
+
 
 
 
